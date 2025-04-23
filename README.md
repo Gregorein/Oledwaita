@@ -15,6 +15,9 @@ Original author suggests turning off "Customize the dash color" in the dash-to-d
 ## Installation
 1. Clone this repository into `~/.local/share/themes`.
 2. Select `Oledwaita` as the shell theme in gnome-tweaks.
+3. Copy `gtk.css` to `~/.config/gtk-4.0/gtk.css`.
+
+4. Restart Gnome Shell / log out and log back in.
 
 ## Screenshots
 This is how Oled will look.
