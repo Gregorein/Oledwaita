@@ -1,0 +1,13 @@
+@define-color window_bg_color #0b0b0b;
+@define-color view_bg_color #000000;
+@define-color headerbar_bg_color #171717;
+@define-color dialog_bg_color #171717;
+@define-color popover_bg_color #171717;
+
+:root {
+	--sidebar-bg-color: #0b0b0b;
+	--sidebar-backdrop-color: #000000;
+
+	--secondary-sidebar-bg-color: #171717;
+	--secondary-sidebar-backdrop-color: 0b0b0b;
+}
