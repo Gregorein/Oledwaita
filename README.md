@@ -1,6 +1,8 @@
 # Oledwaita
 A darkest version of the default Adwaita gnome-shell theme for Gnome 48, clone of the [Darkwaita theme](https://github.com/varunbpatil/Darkwaita).
 
+![Oledwaita theme](screenshots/intro.png)
+
 > [!NOTE]  
 > Updated for Gnome 48 Bengaluru 🎉
 
